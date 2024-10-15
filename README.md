@@ -26,7 +26,7 @@ This repo contains two `.ipynb` notebooks that are designed to run on Google Col
 ---
 
 ## Folder Structure
-There is no specific folder structure in this repo. All files are located at the root level.
+Google lens pro max is located in PS-1 and Hog ragger is located in PS-2
 
 ---
 
